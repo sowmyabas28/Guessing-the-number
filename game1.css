@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+    padding-top: 100px;
+}
+div{
+    text-align: center;
+    width: 500px;
+    height: 200px;
+    border: 100px;
+    padding:80px;
+    margin: auto;
+    background-color: rgb(57, 55, 52);
+
+}
+h2{
+    text-align: center;
+    color: GREEN;
+}
+H3{
+    text-align: center;
+    color: rgb(25, 132, 225);
+}
